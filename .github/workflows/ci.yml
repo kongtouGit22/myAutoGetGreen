@@ -16,7 +16,7 @@ jobs:
   
     steps:
       - name: Clone repository
-        uses: actions/kongtouGit22
+        uses: actions/kongtouGit22@v3
 
       - name: Auto green
         run: |
